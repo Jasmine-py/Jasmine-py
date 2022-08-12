@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 <!--
 **Jasmine-py/Jasmine-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,26 +16,27 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there, I'm Iain 👋
+## Hi there, I'm Jasmine 👋🏾
 
-- 👔   I'm an Incoming Analytics and Data Strategy Associate at <a href="https://ankura.com/" target="_new">Ankura</a>
-- 🎒   I graduated from University of Virginia's McIntire School of Commerce with a B.S. in Commerce. I concentrated in Finance and Information Technology, with a track in Quantitative Finance; I also completed minors in Computer Science and Data Science.
-- 🌱   I’m currently learning Machine and Deep Learning algorithms
-- 📫   How to reach me: [Email](mailto:iam9ez@virginia.edu) | <a href="https://www.linkedin.com/in/iain-a-muir/" target="_new">LinkedIn</a>
-- 💻   Personal Website: <a href="https://iainmuir6.github.io/" target="_new">Iain Muir</a>
+- 👔   I'm a research student interested in Machine Learning applied to big data analysis in Cancer Genomics and gene regulatory elements.
+- 🎒   I graduated my undergraduate career in Cell and Molecular Biology (B.S.), and Biochemistry, (B.S.), both at San Francisco State University (SFSU). I returned to school to earn my Master's in Science degree, Cell and Molecular Biology, also at SFSU. During my Master's, I took a coding class in Bioinformatics in R, as well as a coding class in Data Analysis for Scientists in Python, while in a research lab studing yeast organelle size regulation applying MATlab programming algorithms. Since then, I have taken several online courses to strengthen my coding focusing on Python, terminal and R.
+- 🌱   I’m currently learning (1) how to apply machine learning to build classifiers and (2) data analysis of multiomics datasets.
+- 📫   How to reach me: [Email](mailto:jasmine.sims@ucsf.edu) | <a href="https://www.linkedin.com/in/jasmine-sims/" target="_new">LinkedIn</a>
+- 💻   Personal Website: <a href="https://Jasmine-py.github.io/" target="_new">Jasmine-py</a>
 
 ## Personal Project Repositories
 \# | Repository
 ------------ | -------------
-1 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
-2 | [Information Aggregator](https://github.com/iainmuir6/Information-Aggregator)
-3 | [End of Day Portfolio Analysis](https://github.com/iainmuir6/Portfolio-Analysis)
-4 | [Morning Scoop: Sports, News, and Fantasy](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
-5 | [Financial Data Analysis Dashboard](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
-6 | [Fantasy Football Dashboard](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
-7 | [Sports Highlights Dashboard](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
-8 | [GitHub Pages Personal Website](https://github.com/iainmuir6/iainmuir6.github.io)
-9 | [HackerRank mySQL Solutions](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
+1 | [Machine Learning to build classifiers](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
+2 | [ATAC-Seq Data Analysis](https://github.com/iainmuir6/Information-Aggregator)
+3 | [single cell RNA-seq Data Analysis](https://github.com/iainmuir6/Portfolio-Analysis)
+4 | [Multiomics](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
+5 | [Handling Dataset imbalance utilizing M-SMOTE](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
+6 | [Mutational Plots](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
+7 | [Transcription Factor Binding Site Motif Analysis](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
+8 | [Big Data Chunking](https://github.com/iainmuir6/iainmuir6.github.io)
+9 | [GitHub Pages Personal Website](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
+
 
 ## Coursework Repositories
 \# | Repository
