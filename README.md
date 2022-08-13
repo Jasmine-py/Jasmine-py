@@ -30,15 +30,9 @@ Here are some ideas to get you started:
 1 | [Machine Learning to build classifiers](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
 2 | [ATAC-Seq Data Analysis](https://github.com/iainmuir6/Information-Aggregator)
 3 | [single cell RNA-seq Data Analysis](https://github.com/iainmuir6/Portfolio-Analysis)
-4 | [Multiomics](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
-5 | [Demultiplexing](https://github.com/iainmuir6/iainmuir6.github.io)
-6 | [Handling Dataset imbalance utilizing M-SMOTE](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
-7 | [Mutational Plots](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
-8 | [Transcription Factor Binding Site Motif Analysis](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
-9 | [Big Data Chunking](https://github.com/iainmuir6/iainmuir6.github.io)
-10| [GitHub Pages Personal Website](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
-
-
+4 | [Handling Dataset imbalance utilizing M-SMOTE](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
+5 | [Transcription Factor Binding Site Motif Analysis](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
+6 | [Mutational Plots](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
 
 
 ## Coursework Repositories
